@@ -32,11 +32,17 @@
 #### WBS
 https://docs.google.com/spreadsheets/d/1W9hfPrPYVyB8MAeNCb9lHVdVdqceW2ibfjWdJNvKiFY/edit#gid=1773513600
 
+#### ワイヤーフレーム
+https://app.diagrams.net/?libs=general;mockups#G1MiqSz3dxqSwDmVI34jvlqyMxJEFq-Qtl#%7B%22pageId%22%3A%2203018318-947c-dd8e-b7a3-06fadd420f32%22%7D
+
 #### ER図
 https://app.diagrams.net/#G1fmuCPf8_vUmVRQGmOqpEkEByg1_xy_xz#%7B%22pageId%22%3A%22T22SGYjDBbAf4KW2gtLK%22%7D
 
 #### テーブル定義書
 https://docs.google.com/spreadsheets/d/1ssEIqT_9k1dITqUFnzyeUxI8VfsYqUMh/edit?copiedFromTrash#gid=1578921208
+
+#### アプリケーション詳細設計書
+https://docs.google.com/spreadsheets/d/1d1UvOTMM6GuAhZJuBSp9FkAqGMlNAB2VOzPLDOPTqB8/edit#gid=1844820122
 ​
 ## 開発環境
 - OS：Linux(CentOS)
