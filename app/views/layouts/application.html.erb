@@ -11,15 +11,19 @@
   </head>
 
   <body>
-    <header>
-      <%= render "layouts/header" %>
-    </header>
-    <main>
-      
-    <%= yield %>
-    </main>
-    <footer>
-      <%= render "layouts/footer" %>
-    </footer>
+    <div class="footer_adjustments">
+      <header>
+        <%= render "layouts/header" %>
+      </header>
+      <main>
+        <div>
+          <%= flash[:notice] %>
+        </div>
+        <%= yield %>
+      </main>
+      <footer>
+        <%= render "layouts/footer" %>
+      </footer>
+    </div>
   </body>
 </html>
